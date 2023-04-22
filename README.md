@@ -22,11 +22,11 @@ pip install -r requirements.txt
 <ul>
   <li>Python</li>
   <li>Flask</li>
-  <li>SQLite3</li>
+  <li>SQL Server</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
-  <li>JavaScript</li>
+
 </ul>
 
 
