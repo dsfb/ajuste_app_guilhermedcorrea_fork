@@ -5,14 +5,17 @@ criar ambiente virtual:
 
 py -3 -m venv venv
 
-ativar ambiente virtual:
+ativar ambiente virtual no Windows:
 
-venv/Scripts/activate
+venv\Scripts\activate
 
 instalar bibliotecas:
 
 pip install -r requirements.txt
 
+rodar a aplicação no Windows:
+
+python wsgi.py
 
 ### Features implemented:
 
