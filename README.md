@@ -1,24 +1,28 @@
 # app
 
-### Iniciando o projet
-criar ambiente virtual
+### Iniciando o projeto:
+criar ambiente virtual:
+
 py -3 -m venv venv
-ativar ambiente
 
-venv/Scripts/activatw
+ativar ambiente virtual:
 
-instalar bibliotecas
+venv/Scripts/activate
+
+instalar bibliotecas:
 
 pip install -r requirements.txt
 
 
 ### Features implemented:
+
 <ul>
   <li>Filtering Via categories and brands</li>
-  
+
  </ul>
  
  ### Technologies Used
+
 <ul>
   <li>Python</li>
   <li>Flask</li>
@@ -33,9 +37,10 @@ pip install -r requirements.txt
  
  ### Wanna help to add some features or modify, Just send a pull request and lets make it happen. :D 
  # Screenshots
+
 <ol>
   <li>Home Page: </li><br>
-  <img src=""><br><br>
+  <img src="" alt="Not implemented!"><br><br>
   <li>Views:</li><br>
 
 </ol>
